@@ -30,9 +30,6 @@ body {
   font-family: 'Bodoni Moda', serif;
   font-size: 24px;
   color: gold;
-  text-decoration: none;
-  color: inherit;         
-  display: inline-block;  
 }
 .navbar .logo :hover {
     cursor: pointer;
